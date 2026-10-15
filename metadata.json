@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dinosaur Fossil Map Explorer",
+  "description": "Interactive global dinosaur fossil field observatory and paleogeographic survey with Google Earth Photorealistic 3D Globe, satellite topography, and Gemini intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
